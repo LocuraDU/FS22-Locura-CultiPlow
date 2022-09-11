@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="62">
+    <author>Credence</author>
+    <version>1.0</version>
+	<multiplayer supported="true"/>
+	
+    <title>
+        <en>Locura CultiPlow</en>
+    </title>
+    
+	<description>
+        <en>
+			<![CDATA[With the K-12200 you can plow and cultivate your field in one work routine.
+
+Price: 98.000€
+Max. working speed: 18 mph
+Required power: 325 hp
+Working width: 12.2m
+
+Changelog:
+
+Version 1.0.1.1
+
+- added rim color selection in the shop
+- fixed an issue in the description
+
+Version 1.0.1.0
+
+- added base color selection in the shop, Credits @Eiks ( https://www.youtube.com/user/eiksnr1 )
+
+Version 1.0.0.3
+
+- added missing multiplay function
+
+Version 1.0.0.2
+
+- fixed a performance issue - forgot to turn off the work light/s ;)
+
+Version 1.0.0.1
+
+- inintial version]]>
+		</en>
+		
+		<de>
+			<![CDATA[Mit dem K-12200 kannst du dein Feld in einem Arbeitsgang Tiefenlockern und grubbern.
+
+Preis: 98.000€
+Max. Arbeitsgeschwindigkeit: 18 km/h
+Benötigte Leistung: 325 PS
+Arbeitsbreite: 12,2 m
+
+Änderungsprotikoll:
+
+Version 1.0.1.1
+
+- Farbwahl für die Felgen hinzugefügt.
+- Fehler in der Beshreibung behoben
+
+Version 1.0.1.0
+
+- Farbwahl für den Rahmen hinzugefügt, Danke @Eicks ( https://www.youtube.com/user/eiksnr1 )
+
+Version 1.0.0.3
+
+- Verfügbarkeit im Multiplay hinzugefügt
+
+Version 1.0.0.2
+
+- Performenz-Fehler behoben - hab vergessen das 'Arbeitslicht' wieder auszumachen ;) 
+
+Version 1.0.0.1
+
+- inintial version]]>
+		</de>
+		<fr>
+			<![CDATA[Avec le K-12200, vous pouvez labourer et cultiver votre champ en une seule fois.
+
+Prix: 98.000€
+Vitesse de travail: 18 km/h
+Puissance requise: 325 ch
+Largeur de travail: 12,2 m
+
+Changelog:
+
+Version 1.0.1.1
+
+- added rim color selection in the shop
+- fixed an issue in the description
+
+Version 1.0.1.0
+
+- added base color selection in the shop, Credits @Eiks ( https://www.youtube.com/user/eiksnr1 )
+
+Version 1.0.0.3
+
+- added missing multiplay function
+
+Version 1.0.0.2
+
+- fixed a performance issue - forgot to turn off the work light/s ;)
+
+Version 1.0.0.1
+
+- inintial version]]>
+		</fr>
+    </description>
+	
+    <iconFilename>store/icon_k12200.dds</iconFilename>
+    
+	<vehicleTypes>
+		<type name="cultiplow" parent="baseGroundTool" filename="$dataS/scripts/vehicles/Vehicle.lua" >
+			<specialization name="cultivator" />
+            <specialization name="plow" />
+		</type>
+	</vehicleTypes>
+
+	<storeItems>
+        <storeItem xmlFilename="cultiplow.xml"/>
+    </storeItems>
+	
+<brands>
+<brand name="Locura" title="Locura" image="brand_locura.dds"/>
+</brands>
+</modDesc>
