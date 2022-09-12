@@ -12,7 +12,7 @@
 			<function>$l10n_function_plow</function>
             <function>$l10n_function_shallowCultivator</function>
         </functions>
-        <image>store/store_k12200.dds</image>
+        <image>store_cultiplow.dds</image>
         <price>98000</price>
         <lifetime>600</lifetime>
         <rotation>0</rotation>
@@ -31,7 +31,7 @@
 
     <base>
         <typeDesc>$l10n_typeDesc_plow</typeDesc>
-        <filename>k12200.i3d</filename>
+        <filename>cultiplow.i3d</filename>
         <size width="6.2" length="9.5" height="5.1" lengthOffset="0.8"/>
         <speedLimit value="18"/>
         <components>

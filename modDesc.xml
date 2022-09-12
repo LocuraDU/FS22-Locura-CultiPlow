@@ -105,7 +105,7 @@ Version 1.0.0.1
 		</fr>
     </description>
 	
-    <iconFilename>store/icon_k12200.dds</iconFilename>
+    <iconFilename>icon_cultiplow.dds</iconFilename>
     
 	<vehicleTypes>
 		<type name="cultiplow" parent="baseGroundTool" filename="$dataS/scripts/vehicles/Vehicle.lua" >
