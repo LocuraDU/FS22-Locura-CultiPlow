@@ -31,17 +31,13 @@ A true Plow and Cultivator combo unit with correct ground textures.
 > Source download will not work if placed in mod folder and is not game ready.
 
 # Preview
-![Image of Screen](images/Screenshot%20(176).png?raw=true)
-![Image of Screen](images/Screenshot%20(177).png?raw=true)
+![Image of Screen](images/Screenshot%20(179).png?raw=true)
+![Image of Screen](images/Screenshot%20(180).png?raw=true)
+![Image of Screen](images/Screenshot%20(181).png?raw=true)
 
 # Current Parameter Options
-- Wheel Brand
-- Wheel Setup
-- Compacity
 - Main Color
-- Design Color
 - Rim Color
-- License Plate
 
 # Item Compatibility
 - :red_square: Mulcher
