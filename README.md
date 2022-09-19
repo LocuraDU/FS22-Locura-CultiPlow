@@ -10,7 +10,7 @@ A true Plow and Cultivator combo unit with correct ground textures.
 [![](https://img.shields.io/github/watchers/locuradu/FS22-Locura-CultiPlow?style=flat-square&label=WATCHERS)](#)
 [![](https://img.shields.io/github/stars/locuradu/FS22-Locura-CultiPlow?style=flat-square&label=STARS)](#)
 [![](https://img.shields.io/github/forks/locuradu/FS22-Locura-CultiPlow?style=flat-square&label=FORKS)](#)
-[![](https://img.shields.io/github/commit-activity/w/locuradu/FS22-Locura-CultiPlow?style=flat-square&label=COMMIT%20ACTIVITY)](#)
+[![](https://img.shields.io/github/commit-activity/m/locuradu/FS22-Locura-CultiPlow?style=flat-square&label=COMMIT%20ACTIVITY)](#)
 [![](https://img.shields.io/github/discussions/locuradu/FS22-Locura-CultiPlow?label=DISCUSSIONS&style=flat-square)](#)
 [![](https://img.shields.io/github/release-date/locuradu/FS22-Locura-CultiPlow?label=LAST%20RELEASE&style=flat-square)](#)
 [![](https://img.shields.io/github/last-commit/locuradu/FS22-Locura-CultiPlow?label=LAST%20COMMIT&style=flat-square)](#)
